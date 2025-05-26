@@ -1,4 +1,4 @@
-## Тестовый проект для работы с Гео данными и sqlalchemy
+## Test project for PostGis with SQLAlchemy and GeoAlchemy2
 
 ### Key libs
 - geoalchemy2
